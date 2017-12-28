@@ -114,7 +114,7 @@
   </parameters>
   <node componentName="tSleep" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="64" posY="160">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSleep_1" show="false"/>
-    <elementParameter field="TEXT" name="PAUSE" value="100"/>
+    <elementParameter field="TEXT" name="PAUSE" value="300"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tSleep_1"/>
   </node>
